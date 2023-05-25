@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77ab6e18-77b9-4dd7-9217-6fd31f3cdaa6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RomanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ZigZag.java" afterDir="false" />
+    <list default="true" id="77ab6e18-77b9-4dd7-9217-6fd31f3cdaa6" name="Changes" comment="easy 3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,12 +65,25 @@
       <workItem from="1684342994605" duration="4082000" />
       <workItem from="1684763035101" duration="1417000" />
       <workItem from="1684814039907" duration="4188000" />
-      <workItem from="1684985865180" duration="1848000" />
+      <workItem from="1684985865180" duration="2502000" />
+      <workItem from="1684999518247" duration="2639000" />
     </task>
+    <task id="LOCAL-00001" summary="easy 3">
+      <created>1684987743793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684987743793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="easy 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="easy 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -86,6 +92,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/ZigZag.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

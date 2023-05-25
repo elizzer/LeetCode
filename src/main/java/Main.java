@@ -7,6 +7,8 @@ public class Main {
 //        boolean result =PalindromeNumber.Solution(123456789);
 //        System.out.println(result);
 
-        System.out.println(RomanToInteger.solution("MCMXCIV"));
+//        System.out.println(RomanToInteger.solution("MCMXCIV"));
+        String[] strs=new String[]{"flower","flow","flight"};
+        System.out.println(LongestCommonPrefix.solution(strs));
     }
 }
