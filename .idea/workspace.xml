@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77ab6e18-77b9-4dd7-9217-6fd31f3cdaa6" name="Changes" comment="easy 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LongestCommonPrefix.java" afterDir="false" />
+    <list default="true" id="77ab6e18-77b9-4dd7-9217-6fd31f3cdaa6" name="Changes" comment="easy 4">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MergeTwoSortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RemoveDuplicatesFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ValidParentheses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
@@ -23,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/ValidParentheses.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,7 +72,14 @@
       <workItem from="1684763035101" duration="1417000" />
       <workItem from="1684814039907" duration="4188000" />
       <workItem from="1684985865180" duration="2502000" />
-      <workItem from="1684999518247" duration="2639000" />
+      <workItem from="1684999518247" duration="2881000" />
+      <workItem from="1685453631191" duration="1844000" />
+      <workItem from="1685629656204" duration="2163000" />
+      <workItem from="1686204699572" duration="2129000" />
+      <workItem from="1686277141362" duration="44000" />
+      <workItem from="1686301520938" duration="5084000" />
+      <workItem from="1687435940636" duration="1000" />
+      <workItem from="1687783888293" duration="6209000" />
     </task>
     <task id="LOCAL-00001" summary="easy 3">
       <created>1684987743793</created>
@@ -75,15 +88,34 @@
       <option name="project" value="LOCAL" />
       <updated>1684987743793</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="easy 4">
+      <created>1685006805582</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685006805582</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="easy 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="easy 3" />
+    <MESSAGE value="easy 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="easy 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -98,7 +130,18 @@
           <line>5</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MergeTwoSortedList.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ll2" />
+        <watch expression="list1.val" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
